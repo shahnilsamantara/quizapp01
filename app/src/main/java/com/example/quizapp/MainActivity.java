@@ -49,7 +49,9 @@ public class MainActivity extends AppCompatActivity {
     private TextView textViewhighscore;
     private int highscore;
 
+
     public String data = "";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
