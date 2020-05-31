@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static final String shared_prefs = "sharedprefs";
     public static final String key_highscore = "highscore";
+
     public static final String key_list = "list";
 
     private TextView textViewhighscore;
